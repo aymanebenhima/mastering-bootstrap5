@@ -2,6 +2,17 @@
 
 Welcome to the iCare App landing page project. Follow the steps below to complete the project.
 
+## Mockups
+
+### Desktop View
+![Desktop Mockup](mockups/desktop-mockup.jpeg)
+
+### Tablet View
+![Tablet Mockup](mockups/tablette-mockup.jpeg)
+
+### Mobile View
+![Mobile Mockup](mockups/mobile-mockup.jpeg)
+
 ## Step 1: Set Up the Project
 
 - Initialize your project folder and create `index.html` and `styles.css` files.
